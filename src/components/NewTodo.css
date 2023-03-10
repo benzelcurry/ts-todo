@@ -1,0 +1,17 @@
+ul {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+li {
+  list-style: none;
+}
+
+.todo {
+  width: 500px;
+  border: solid 2px black;
+  padding: 20px;
+  display: flex;
+  justify-content: space-between;
+}
