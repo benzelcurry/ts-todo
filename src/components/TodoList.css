@@ -1,0 +1,15 @@
+form > div {
+  display: flex;
+  flex-direction: column;
+  gap: 20px;
+}
+
+form > button {
+  margin-top: 20px;
+  background-color: rgb(114, 162, 201);
+}
+
+div > input {
+  width: 350px;
+  padding: 10px;
+}
